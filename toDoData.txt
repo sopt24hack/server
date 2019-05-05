@@ -1,0 +1,1 @@
+[{"id":"0","type":"habit","title":"��ġ�Ա�","section":"��ġ�����ϸ���","reward":"4","complete":"0"},{"id":"1","type":"habit","title":"이닦기","section":"이를열심히닦자","reward":"4","complete":"0"}]
